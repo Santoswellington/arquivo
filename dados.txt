@@ -1,0 +1,2 @@
+wellington ;6
+carlos;10
